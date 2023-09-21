@@ -45,7 +45,7 @@ export const Contact: React.FC<BasicsProps> = ({ email, url, phone }) => (
     {phone && (
       <div className="phone">
         <span className="fas fa-mobile-alt"></span>
-        <a className="hide-href-print" href="tel:{{phone}}">
+        <a className="hide-href-print" href={`tel:${phone}`}>
           {"\u00A0"}
           {phone}
         </a>
