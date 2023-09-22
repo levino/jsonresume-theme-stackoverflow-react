@@ -15,21 +15,21 @@
       "Publications": "Veröffentlichungen",
       "Languages": "Sprachen",
       "References": "Referenzen"
-    },
-    "es": {
-      "translation": {
-        "Skills": "Habilidades",
-        "Interests": "Intereses",
-        "Work Experience": "Experiencia laboral",
-        "Certificates": "Certificados",
-        "Projects": "Proyectos",
-        "Volunteer": "Voluntariado",
-        "Education": "Educación",
-        "Awards": "Premios",
-        "Publications": "Publicaciones",
-        "Languages": "Lenguas",
-        "References": "Referencias"
-      }
+    }
+  },
+  "es": {
+    "translation": {
+      "Skills": "Habilidades",
+      "Interests": "Intereses",
+      "Work Experience": "Experiencia laboral",
+      "Certificates": "Certificados",
+      "Projects": "Proyectos",
+      "Volunteer": "Voluntariado",
+      "Education": "Educación",
+      "Awards": "Premios",
+      "Publications": "Publicaciones",
+      "Languages": "Lenguas",
+      "References": "Referencias"
     }
   }
 }
