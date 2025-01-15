@@ -1,5 +1,11 @@
 # Yet another theme for json resume
 
+:::danger
+
+This theme has been [integrated](https://github.com/jsonresume/jsonresume.org/tree/aa54dc2744d12edd1a33d39440dda0768030fefa/themes/stackoverflow) in the jsonresume monorepo. This also means that the name has [changed](https://www.npmjs.com/package/@jsonresume/theme-stackoverflow).
+
+:::
+
 I made [`jsonresume-theme-stackoverflow-react`](https://www.npmjs.com/package/jsonresume-theme-stackoverflow-react) since I need to output a German CV in some cases. My package is a fork of [`jsonresume-theme-stackoverflow`](https://www.npmjs.com/package/jsonresume-theme-stackoverflow) which has a nice design. Maybe the people from this package will merge my changes in and then I will discontinue my fork. Please double check.
 
 ## Usage
